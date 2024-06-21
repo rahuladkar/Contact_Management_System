@@ -1,3 +1,2 @@
 # Contact_Management_System
-<br>
-<h1>Author : Rahul Adkar</h1>
+<h3>Author : Rahul Adkar</h3>
