@@ -12,4 +12,4 @@ The Contact Management System is a simple console-based application that allows 
 - **Update Contact:** Update the phone number and email of an existing contact.
 - **Search Contact:** Search for a contact by name and display their details.
 - **Display Contacts:** Display all contacts stored in the system.
-- 
+  
