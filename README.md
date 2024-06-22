@@ -1,8 +1,6 @@
 # Contact_Management_System
 Author : Rahul Adkar
 
-# Contact Management System
-
 ## Overview
 
 The Contact Management System is a simple console-based application that allows users to manage their contacts. Users can add new contacts, remove existing ones, update contact details, search for specific contacts, and display all contacts.
