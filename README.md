@@ -12,8 +12,4 @@ The Contact Management System is a simple console-based application that allows 
 - **Update Contact:** Update the phone number and email of an existing contact.
 - **Search Contact:** Search for a contact by name and display their details.
 - **Display Contacts:** Display all contacts stored in the system.
-
-
-- **Input:** User enters the contact's name, phone number, and email.
-- **Process:** Create a new `Contact` object and add it to the `ArrayList<Contact>`.
-- **Output:** Confirmation message that the contact has been added.
+- 
