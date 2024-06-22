@@ -121,4 +121,4 @@ To run the Contact Management System, follow these steps:
 
 1. Compile the Java files:
    ```sh
-   javac Contact.java ContactManager.java Main.java
+   javac Contact.java ContactManager.java ContactUtility.java
